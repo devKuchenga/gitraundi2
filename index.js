@@ -1,3 +1,4 @@
+const mer = "MERCURY"
 const jup = "JUPITER"
 const mar = "MARS"
 const sat = "SATURN"
