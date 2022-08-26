@@ -5,3 +5,6 @@ html{
 foo{
     font-weight: bold;
 }
+.foo-bar{
+    background-color: blue;
+    }
